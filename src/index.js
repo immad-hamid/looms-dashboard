@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Index from './pages/Index';
 import * as serviceWorker from './serviceWorker';
+import AppLayout from './layouts/AppLayout';
 
-ReactDOM.render(<Index />, document.getElementById('root'));
+ReactDOM.render(<AppLayout />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
