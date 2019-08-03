@@ -40,7 +40,7 @@ export default class MainLoomsDetails extends Component {
                             <h2>Line Area: {res.Line_No}</h2>
                             {res.LoomData.map((data, i) =>
                                 <Col key={i} span={3}>
-                                    <Badge count={data.SHIFT}>
+                                    <Badge style={{ background: '#358ba5' }} count={data.SHIFT}>
                                         <Card title={data.LoomID} bordered={true}>
                                             {data.EFFICIENCY}
                                         </Card>

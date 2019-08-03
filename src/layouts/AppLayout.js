@@ -45,11 +45,11 @@ export default class AppLayout extends Component {
                                 <span><Link style={anchor} to="/real-time-monitoring">Real Time Monitoring</Link></span>
                             </Menu.Item>
                             <Menu.Item key="3">
-                                <Icon type="menu-unfold" />
+                                <Icon type="down-square" />
                                 <span><Link style={anchor} to="/looms-report">Looms Report</Link></span>
                             </Menu.Item>
                             <Menu.Item key="4">
-                                <Icon type="menu-unfold" />
+                                <Icon type="radius-bottomleft" />
                                 <span><Link style={anchor} to="/looms-detail">Looms Details</Link></span>
                             </Menu.Item>
                         </Menu>

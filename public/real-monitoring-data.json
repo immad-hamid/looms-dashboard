@@ -1,0 +1,94 @@
+[
+    {
+        "head": "Running Month",
+        "actEff": {
+            "head": "Act. Eff",
+            "value": "41.9%"
+        },
+        "prodEff": {
+            "head": "Prod. Eff",
+            "value": "82.5%"
+        },
+        "metre": {
+            "head": "Metre",
+            "value": "41.9 %"
+        },
+        "avgRpm": {
+            "head": "Avg. RPM",
+            "value": "41.9 %"
+        },
+        "stopHrs": {
+            "head": "Stop Hrs",
+            "value": "41.9 %"
+        }
+    },
+    {
+        "head": "Previous Day",
+        "actEff": {
+            "head": "Act. Eff",
+            "value": "41.9%"
+        },
+        "prodEff": {
+            "head": "Prod. Eff",
+            "value": "82.5%"
+        },
+        "metre": {
+            "head": "Metre",
+            "value": "41.9 %"
+        },
+        "avgRpm": {
+            "head": "Avg. RPM",
+            "value": "41.9 %"
+        },
+        "stopHrs": {
+            "head": "Stop Hrs",
+            "value": "41.9 %"
+        }
+    },
+    {
+        "head": "Previous Shift",
+        "actEff": {
+            "head": "Act. Eff",
+            "value": "41.9%"
+        },
+        "prodEff": {
+            "head": "Prod. Eff",
+            "value": "82.5%"
+        },
+        "metre": {
+            "head": "Metre",
+            "value": "41.9 %"
+        },
+        "avgRpm": {
+            "head": "Avg. RPM",
+            "value": "41.9 %"
+        },
+        "stopHrs": {
+            "head": "Stop Hrs",
+            "value": "41.9 %"
+        }
+    },
+    {
+        "head": "Running Shift",
+        "actEff": {
+            "head": "Act. Eff",
+            "value": "41.9%"
+        },
+        "prodEff": {
+            "head": "Prod. Eff",
+            "value": "82.5%"
+        },
+        "metre": {
+            "head": "Metre",
+            "value": "41.9 %"
+        },
+        "avgRpm": {
+            "head": "Avg. RPM",
+            "value": "41.9 %"
+        },
+        "stopHrs": {
+            "head": "Stop Hrs",
+            "value": "41.9 %"
+        }
+    }
+]
